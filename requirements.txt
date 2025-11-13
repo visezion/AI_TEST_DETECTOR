@@ -1,0 +1,11 @@
+transformers==4.44.0
+datasets==2.21.0
+sentencepiece
+torch
+scikit-learn
+numpy
+pandas
+fastapi
+uvicorn[standard]
+nltk
+regex
